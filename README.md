@@ -1,8 +1,8 @@
 # Cursor: "Homework 07" (Andrey Kiyas)
 ___
 ### Git link(s):
-- [Pull request 01 (Part 01) - HW](https://github.com/andrey-kiyas/com.CursorHomeWorks07/pull/1)
-- [Pull request 02 (Part 02) - Servlet](https://github.com/andrey-kiyas/com.CursorHomeWorks07/pull/2)
+- [Pull request 01 (Part 01) - HW](https://github.com/andrey-kiyas/CursorHomeWorks07/pull/1)
+- [Pull request 02 (Part 02) - Servlet](https://github.com/andrey-kiyas/CursorHomeWorks07/pull/2)
 ___
 ### EN
 1) Create a spring boot “Shops” project.
